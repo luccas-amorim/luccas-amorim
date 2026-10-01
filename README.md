@@ -17,9 +17,9 @@
 | Projeto | O que é |
 |---|---|
 | [**AtlasPen**](https://github.com/luccas-amorim/atlaspen) | Atlas Penal Brasileiro: todos os tipos penais em vigor, os institutos que a lei liga a cada um (ANPP, transação, substituição, progressão, livramento, prescrição) e simulação de alteração legislativa. Dados abertos, conferidos contra o texto compilado do Planalto. |
-| **Poti** <sub>código fechado</sub> | Middleware de otimização de circuitos quânticos via ZX-Calculus: reduz o T-count de circuitos OpenQASM, com verificação formal de equivalência entre o circuito original e o otimizado. |
 | [**Árvores Jurídicas BR**](https://github.com/luccas-amorim/lex-tree-br) | A estrutura da Constituição e dos principais códigos em árvore interativa, para ver onde cada título, capítulo ou artigo se encaixa no todo da lei. |
 | [**ssd-autosync**](https://github.com/luccas-amorim/ssd-autosync) | Backup de mão única para um SSD externo específico, com versões antigas, quarentena e trava contra mudanças em massa. |
+| **Poti** <sub>código fechado</sub> | Middleware de otimização de circuitos quânticos via ZX-Calculus: reduz o T-count de circuitos OpenQASM, com verificação formal de equivalência entre o circuito original e o otimizado. |
 
 ### Linguagens e tecnologias
 
@@ -66,7 +66,7 @@ AMORIM, Luccas de. Da origem e natureza da alma na obra de Santo Agostinho. *Rev
 
 <a href="https://orcid.org/0000-0003-1910-1541"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 <a href="http://lattes.cnpq.br/5257336387155202"><img src="https://img.shields.io/badge/Lattes-211F1B?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Lattes" /></a>
-<a href="https://luccas-amorim.github.io/atlaspen/"><img src="https://img.shields.io/badge/AtlasPen-8C2F22?style=for-the-badge" alt="AtlasPen" /></a>
+<a href="https://www.atlaspen.com.br/"><img src="https://img.shields.io/badge/AtlasPen-8C2F22?style=for-the-badge" alt="AtlasPen" /></a>
 
 <details>
 <summary><b>In English</b></summary>
