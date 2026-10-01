@@ -14,9 +14,10 @@
 
 ### Projetos
 
-| | |
+| Projeto | O que é |
 |---|---|
 | [**AtlasPen**](https://github.com/luccas-amorim/atlaspen) | Atlas Penal Brasileiro: todos os tipos penais em vigor, os institutos que a lei liga a cada um (ANPP, transação, substituição, progressão, livramento, prescrição) e simulação de alteração legislativa. Dados abertos, conferidos contra o texto compilado do Planalto. |
+| **Poti** <sub>código fechado</sub> | Middleware de otimização de circuitos quânticos via ZX-Calculus: reduz o T-count de circuitos OpenQASM, com verificação formal de equivalência entre o circuito original e o otimizado. |
 | [**Árvores Jurídicas BR**](https://github.com/luccas-amorim/lex-tree-br) | A estrutura da Constituição e dos principais códigos em árvore interativa, para ver onde cada título, capítulo ou artigo se encaixa no todo da lei. |
 | [**ssd-autosync**](https://github.com/luccas-amorim/ssd-autosync) | Backup de mão única para um SSD externo específico, com versões antigas, quarentena e trava contra mudanças em massa. |
 
@@ -31,6 +32,7 @@
   <img src="https://img.shields.io/badge/D3.js-8C2F22?style=for-the-badge&logo=d3&logoColor=white" alt="D3.js" />
   <img src="https://img.shields.io/badge/PostgreSQL-8C2F22?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-8C2F22?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Qiskit-8C2F22?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit" />
   <img src="https://img.shields.io/badge/OpenQASM-8C2F22?style=for-the-badge" alt="OpenQASM" />
   <img src="https://img.shields.io/badge/HTML5-8C2F22?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS-8C2F22?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
