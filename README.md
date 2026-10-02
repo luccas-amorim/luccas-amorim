@@ -3,7 +3,7 @@
 
 > Filósofo, estudante de Direito e pesquisador. Escrevo ferramentas abertas para o sistema jurídico
 > brasileiro: bases de dados verificadas contra o texto oficial, motores
-> de cálculo e visualizações da estrutura do ordenamento.
+> de cálculo, visualizações da estrutura do ordenamento e robôs que vigiam e ingerem fontes públicas em volume.
 
 ### Pesquisa
 
@@ -14,11 +14,13 @@
 
 ### Projetos
 
-| Projeto | O que é |
+| Projeto | Definição |
 |---|---|
 | [**AtlasPen**](https://github.com/luccas-amorim/atlaspen) | Atlas Penal Brasileiro: todos os tipos penais em vigor, os institutos que a lei liga a cada um (ANPP, transação, substituição, progressão, livramento, prescrição) e simulação de alteração legislativa. Dados abertos, conferidos contra o texto compilado do Planalto. |
+| [**Atalaia**](https://github.com/luccas-amorim/atalaia) <sub>em construção</sub> | Motor de captura e triagem de fontes públicas para pesquisa jurídica: tribunais, diários oficiais, imprensa, arquivos da web e planilhas publicadas em formatos variados, como listas de precatórios. Lê o texto integral, normaliza, confronta com um léxico declarado em arquivo e entrega cada item com proveniência; o que descarta sai nomeado, com o motivo. |
 | [**Árvores Jurídicas BR**](https://github.com/luccas-amorim/lex-tree-br) | A estrutura da Constituição e dos principais códigos em árvore interativa, para ver onde cada título, capítulo ou artigo se encaixa no todo da lei. |
-| [**ssd-autosync**](https://github.com/luccas-amorim/ssd-autosync) | Backup de mão única para um SSD externo específico, com versões antigas, quarentena e trava contra mudanças em massa. |
+| [**guarda-ssd**](https://github.com/luccas-amorim/guarda-ssd) | Backup de mão única para um SSD externo específico, com versões antigas, quarentena e trava contra mudanças em massa. |
+| [**poti-bench**](https://github.com/luccas-amorim/poti-bench) <sub>em construção</sub> | Corpus aberto de circuitos OpenQASM com T-count de referência e resultados comparativos de otimizadores. O otimizador do Poti continua fechado; o que se publica é a régua. |
 | **Poti** <sub>código fechado</sub> | Middleware de otimização de circuitos quânticos via ZX-Calculus: reduz o T-count de circuitos OpenQASM, com verificação formal de equivalência entre o circuito original e o otimizado. |
 
 ### Linguagens e tecnologias
@@ -27,15 +29,19 @@
   <img src="https://img.shields.io/badge/Python-8C2F22?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-8C2F22?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-8C2F22?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-8C2F22?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/Astro-8C2F22?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/React-8C2F22?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/D3.js-8C2F22?style=for-the-badge&logo=d3&logoColor=white" alt="D3.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-8C2F22?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-8C2F22?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Qiskit-8C2F22?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit" />
-  <img src="https://img.shields.io/badge/OpenQASM-8C2F22?style=for-the-badge" alt="OpenQASM" />
+  <img src="https://img.shields.io/badge/Three.js-8C2F22?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-8C2F22?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/pytest-8C2F22?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/Playwright-8C2F22?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/HTML5-8C2F22?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS-8C2F22?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Qiskit-8C2F22?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit" />
+  <img src="https://img.shields.io/badge/OpenQASM-8C2F22?style=for-the-badge" alt="OpenQASM" />
+  <img src="https://img.shields.io/badge/PostgreSQL-8C2F22?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-8C2F22?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ### Trajetória
