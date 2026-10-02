@@ -8,9 +8,9 @@
 ### Pesquisa
 
 - **Direito Penal**: penas cominadas, instituições totais e atributos processuais.
-- **Teoria do raciocínio jurídico**: o argumento analógico como fonte do direito.
-- **Direito Constitucional**: direitos e garantias fundamentais.
-- **Filosofia**: a tradição racionalista moderna — Espinosa, Kant, Hegel e Husserl.
+- **Teoria Geral do Direito**: forma jurídica, sujeito de direito e vontade.
+- **Teoria do Estado e da Constituição**: eficácia constitucional, distribuição do poder jurisdicional e violência estatal.
+- **Filosofia**: razão teórica e razão prática — conhecimento, vontade e liberdade.
 
 ### Projetos
 
