@@ -1,15 +1,15 @@
 ### Luccas de Amorim
 #### Filosofia · Direito · software para pesquisa jurídica
 
-> Filósofo, estudante de Direito e pesquisador. Escrevo ferramentas abertas que tornam a lei
-> legível, conferível e calculável: bases de dados verificadas contra o texto oficial, motores
+> Filósofo, estudante de Direito e pesquisador. Escrevo ferramentas abertas para o sistema jurídico
+> brasileiro: bases de dados verificadas contra o texto oficial, motores
 > de cálculo e visualizações da estrutura do ordenamento.
 
 ### Pesquisa
 
-- **Direito Penal**: penas cominadas e os atributos processuais que delas decorrem.
+- **Direito Penal**: penas cominadas, instituições totais e atributos processuais.
 - **Teoria do raciocínio jurídico**: o argumento analógico como fonte do direito.
-- **Direito Constitucional**.
+- **Direito Constitucional**: direitos e garantias fundamentais.
 - **Filosofia**: a tradição racionalista moderna — Espinosa, Kant, Hegel e Husserl.
 
 ### Projetos
