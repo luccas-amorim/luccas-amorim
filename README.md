@@ -122,13 +122,14 @@ provide legal advice, and nothing published here — code, data or documentation
 ---
 
 > **Πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει.**<br>
+>
 > *Pántes ánthrōpoi toû eidénai orégontai phýsei.*
 >
 > "Todos os humanos, por natureza, desejam saber."
 >
 > — Aristóteles, *Metafísica*, Α 1, 980a21
 
-<sub>A primeira frase que trabalhei para ler no original.</sub>
+<sub>Conhecimento é liberdade.</sub>
 
 <details>
 <summary><b>Notas de leitura</b></summary>
