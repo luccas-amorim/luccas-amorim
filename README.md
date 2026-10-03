@@ -14,14 +14,30 @@
 
 ### Projetos
 
+**Pesquisa jurídica**
+
 | Projeto | Definição |
 |---|---|
 | [**AtlasPen**](https://github.com/luccas-amorim/atlaspen) | Atlas Penal Brasileiro: todos os tipos penais em vigor, os institutos que a lei liga a cada um (ANPP, transação, substituição, progressão, livramento, prescrição) e simulação de alteração legislativa. Dados abertos, conferidos contra o texto compilado do Planalto. |
 | [**Atalaia**](https://github.com/luccas-amorim/atalaia) <sub>em construção</sub> | Motor de captura e triagem de fontes públicas para pesquisa jurídica: tribunais, diários oficiais, imprensa, arquivos da web e planilhas publicadas em formatos variados, como listas de precatórios. Lê o texto integral, normaliza, confronta com um léxico declarado em arquivo e entrega cada item com proveniência; o que descarta sai nomeado, com o motivo. |
 | [**Árvores Jurídicas BR**](https://github.com/luccas-amorim/lex-tree-br) | A estrutura da Constituição e dos principais códigos em árvore interativa, para ver onde cada título, capítulo ou artigo se encaixa no todo da lei. |
+
+**Utilidades e dados abertos**
+
+| Projeto | Definição |
+|---|---|
 | [**guarda-ssd**](https://github.com/luccas-amorim/guarda-ssd) | Backup de mão única para um SSD externo específico, com versões antigas, quarentena e trava contra mudanças em massa. |
 | [**poti-bench**](https://github.com/luccas-amorim/poti-bench) <sub>em construção</sub> | Corpus aberto de circuitos OpenQASM com T-count de referência e resultados comparativos de otimizadores. O otimizador do Poti continua fechado; o que se publica é a régua. |
 | **Poti** <sub>código fechado</sub> | Middleware de otimização de circuitos quânticos via ZX-Calculus: reduz o T-count de circuitos OpenQASM, com verificação formal de equivalência entre o circuito original e o otimizado. |
+
+**Com apoio, a seguir**
+
+| Projeto | Definição |
+|---|---|
+| **Vale importar?** | Calculadora que compara o custo real de importar e de comprar no Brasil: câmbio, IOF, tributação de encomendas e valor presente das parcelas. Pronta para as lojas; cerca de US$ 125 a publicam de graça no Google Play e na App Store. |
+| **Jurimetria aberta** | Medir padrões em decisões judiciais públicas e publicar os resultados para pesquisa, com proteção de dados pessoais desde a coleta. |
+
+Para apoiar: [GitHub Sponsors](https://github.com/sponsors/luccas-amorim) ou [PIX](https://luccas-amorim.github.io/apoie/).
 
 ### Linguagens e tecnologias
 
@@ -87,7 +103,7 @@ AMORIM, Luccas de. Da origem e natureza da alma na obra de Santo Agostinho. *Rev
 
 Philosopher (B.A., Federal University of Pernambuco), law student and researcher. I build open
 tools for Brazilian legal research: verified datasets, deterministic monitoring of public sources
-and interactive maps of the legal system. Research interests: criminal law (statutory sentencing
+and interactive maps of the legal system, plus free everyday utilities. Research interests: criminal law (statutory sentencing
 ranges, total institutions and procedural attributes); general theory of law (legal form, the
 legal subject and will); theory of the state and the constitution (constitutional efficacy, the
 distribution of judicial power and state violence); and philosophy (theoretical and practical
