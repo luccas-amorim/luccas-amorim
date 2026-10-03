@@ -118,3 +118,32 @@ official source. Everything it funds stays open and free; it buys no exclusive a
 provide legal advice, and nothing published here — code, data or documentation — is legal advice.
 
 </details>
+
+---
+
+> **Πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει.**<br>
+> *Pántes ánthrōpoi toû eidénai orégontai phýsei.*
+>
+> "Todos os humanos, por natureza, desejam saber."
+>
+> — Aristóteles, *Metafísica*, Α 1, 980a21
+
+<sub>A primeira frase que trabalhei para ler no original.</sub>
+
+<details>
+<summary><b>Notas de leitura</b></summary>
+<br>
+
+- **εἰδέναι** (*eidénai*) é o infinitivo de **οἶδα**, um perfeito com sentido de presente: "ter visto",
+  logo "saber". Por isso Aristóteles passa em seguida ao prazer das sensações, sobretudo da visão.
+- **ὀρέγονται** (*orégontai*) indica um estender-se em direção a algo, um tender. É o verbo da
+  **ὄρεξις** (*órexis*), o apetite ou desejo. "Desejam" é a tradução usual, mas "tendem a" preserva
+  melhor a ideia de movimento.
+- **φύσει** (*phýsei*), em posição final, recebe ênfase: o desejo de saber não é adquirido, pertence à
+  natureza humana.
+- **ἄνθρωποι** (*ánthrōpoi*): traduzo por "humanos", e não por "homens".
+
+A frase seguinte dá a prova: **σημεῖον δ' ἡ τῶν αἰσθήσεων ἀγάπησις**, "sinal disso é o apreço pelas
+sensações".
+
+</details>
