@@ -68,6 +68,13 @@ conhecimento de Deus, segundo Santo Agostinho. *Revista Sísifo*, n. 15, 2022.
 AMORIM, Luccas de. Da origem e natureza da alma na obra de Santo Agostinho. *Revista Sísifo*,
 2019. [Link](https://www.revistasisifo.com/2020/04/da-origem-e-natureza-da-alma-na-obra-de.html)
 
+### Compromissos
+
+- Tudo o que o patrocínio financia continua aberto e gratuito. Patrocinar não compra acesso
+  exclusivo.
+- Não presto consultoria nem assessoria jurídica. Nada do que publico aqui — código, dados ou
+  documentação — constitui serviço jurídico.
+
 ### Contato
 
 <a href="https://orcid.org/0000-0003-1910-1541"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
@@ -79,11 +86,16 @@ AMORIM, Luccas de. Da origem e natureza da alma na obra de Santo Agostinho. *Rev
 <br>
 
 Philosopher (B.A., Federal University of Pernambuco), law student and researcher. I build open
-software for legal research — chiefly **AtlasPen**, an open dataset of every criminal offense in
-force in Brazil and the procedural consequences the law attaches to each, with a
-legislative-change simulator. Research interests: statutory sentencing ranges and their
-procedural attributes, analogical reasoning as a source of law, constitutional law, and the
-modern rationalist tradition (Spinoza, Kant, Hegel, Husserl). Working in technology since 2022,
-as a software engineer and now as a technical product manager.
+tools for Brazilian legal research: verified datasets, deterministic monitoring of public sources
+and interactive maps of the legal system. Research interests: criminal law (statutory sentencing
+ranges, total institutions and procedural attributes); general theory of law (legal form, the
+legal subject and will); theory of the state and the constitution (constitutional efficacy, the
+distribution of judicial power and state violence); and philosophy (theoretical and practical
+reason — knowledge, will and freedom). Working in technology since 2022, as a software engineer
+and now as a technical product manager.
+
+Sponsorship funds development, hosting and the slow work of checking every item against its
+official source. Everything it funds stays open and free; it buys no exclusive access. I do not
+provide legal advice, and nothing published here — code, data or documentation — is legal advice.
 
 </details>
