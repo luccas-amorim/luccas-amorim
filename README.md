@@ -14,28 +14,30 @@
 
 ### Projetos
 
+Os nomes vêm da mitologia e da língua gregas; cada repositório conta a origem do seu em `MITO.md`.
+
 **Pesquisa jurídica**
 
 | Projeto | Definição |
 |---|---|
 | [**AtlasPen**](https://github.com/luccas-amorim/atlaspen) | Atlas Penal Brasileiro: todos os tipos penais em vigor, os institutos que a lei liga a cada um (ANPP, transação, substituição, progressão, livramento, prescrição) e simulação de alteração legislativa. Dados abertos, conferidos contra o texto compilado do Planalto. |
-| [**Atalaia**](https://github.com/luccas-amorim/atalaia) <sub>em construção</sub> | Motor de captura e triagem de fontes públicas para pesquisa jurídica: tribunais, diários oficiais, imprensa, arquivos da web e planilhas publicadas em formatos variados, como listas de precatórios. Lê o texto integral, normaliza, confronta com um léxico declarado em arquivo e entrega cada item com proveniência; o que descarta sai nomeado, com o motivo. |
-| [**Árvores Jurídicas BR**](https://github.com/luccas-amorim/lex-tree-br) | A estrutura da Constituição e dos principais códigos em árvore interativa, para ver onde cada título, capítulo ou artigo se encaixa no todo da lei. |
+| [**Argos**](https://github.com/luccas-amorim/argos) <sub>em construção</sub> | Motor de captura e triagem de fontes públicas para pesquisa jurídica: tribunais, diários oficiais, imprensa, arquivos da web e planilhas publicadas em formatos variados, como listas de precatórios. Lê o texto integral, normaliza, confronta com um léxico declarado em arquivo e entrega cada item com proveniência; o que descarta sai nomeado, com o motivo. |
+| [**Ariadne**](https://github.com/luccas-amorim/ariadne) | A estrutura da Constituição e dos principais códigos em árvore interativa, para ver onde cada título, capítulo ou artigo se encaixa no todo da lei. |
 
 **Utilidades e dados abertos**
 
 | Projeto | Definição |
 |---|---|
-| [**guarda-ssd**](https://github.com/luccas-amorim/guarda-ssd) | Backup de mão única para um SSD externo específico, com versões antigas, quarentena e trava contra mudanças em massa. |
-| [**poti-bench**](https://github.com/luccas-amorim/poti-bench) <sub>em construção</sub> | Corpus aberto de circuitos OpenQASM com T-count de referência e resultados comparativos de otimizadores. O otimizador do Poti continua fechado; o que se publica é a régua. |
+| [**Mnemósine**](https://github.com/luccas-amorim/mnemosine) | Backup de mão única para um SSD externo específico, com versões antigas, quarentena e trava contra mudanças em massa. |
+| [**poti-kanon**](https://github.com/luccas-amorim/poti-kanon) <sub>em construção</sub> | Corpus aberto de circuitos OpenQASM com T-count de referência e resultados comparativos de otimizadores. O otimizador do Poti continua fechado; o que se publica é a régua. |
 
 **Com apoio, a seguir**
 
 | Projeto | Definição |
 |---|---|
-| [**Vale importar?**](https://github.com/luccas-amorim/vale-importar-mobile) | Calculadora que compara o custo real de importar e de comprar no Brasil: câmbio, IOF, tributação de encomendas e valor presente das parcelas. Pronta para as lojas; cerca de US$ 125 a publicam de graça no Google Play e na App Store. |
+| [**Empóros**](https://github.com/luccas-amorim/emporos) <sub>app Vale importar?</sub> | Calculadora que compara o custo real de importar e de comprar no Brasil: câmbio, IOF, tributação de encomendas e valor presente das parcelas. Pronta para as lojas; cerca de US$ 125 a publicam de graça no Google Play e na App Store. |
 | [**Dikemetria**](https://github.com/luccas-amorim/dikemetria) <sub>protótipo</sub> | Jurimetria aberta: medir padrões em decisões judiciais públicas e publicar os resultados para pesquisa, com proteção de dados pessoais (LGPD) desde a coleta. |
-| [**Confete**](https://github.com/luccas-amorim/confete) <sub>primeira versão</sub> | Site de aniversário gratuito: contagem regressiva, confirmação de presença e lista de presentes ligada ao Google Sheets, publicado no GitHub Pages. [Demonstração](https://luccas-amorim.github.io/confete/). |
+| [**Eufrosine**](https://github.com/luccas-amorim/eufrosine) <sub>primeira versão</sub> | Site de aniversário gratuito: contagem regressiva, confirmação de presença e lista de presentes ligada ao Google Sheets, publicado no GitHub Pages. [Demonstração](https://luccas-amorim.github.io/eufrosine/). |
 | [**Akademos**](https://github.com/luccas-amorim/akademos) <sub>rascunho</sub> | Gestão acadêmica aberta: grade curricular, horário, notas, integralização e progresso do curso, adaptáveis à matriz de cada universidade. Com apoio, ganha login e importação do histórico escolar. |
 
 Para apoiar: [GitHub Sponsors](https://github.com/sponsors/luccas-amorim) ou [PIX](https://luccas-amorim.github.io/apoie/).
