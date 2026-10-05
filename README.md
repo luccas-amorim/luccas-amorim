@@ -35,10 +35,10 @@ Os nomes vêm da mitologia e da língua gregas; cada repositório conta a origem
 
 | Projeto | Definição |
 |---|---|
-| [**Empóros**](https://github.com/luccas-amorim/emporos) <sub>app Vale importar?</sub> | Calculadora que compara o custo real de importar e de comprar no Brasil: câmbio, IOF, tributação de encomendas e valor presente das parcelas. Pronta para as lojas; cerca de US$ 125 a publicam de graça no Google Play e na App Store. |
+| [**Empóros**](https://github.com/luccas-amorim/emporos) | Calculadora que compara o custo real de importar e de comprar no Brasil: câmbio, IOF, tributação de encomendas e valor presente das parcelas. Pronta para as lojas; cerca de US$ 125 a publicam de graça no Google Play e na App Store. |
 | [**Dikemetria**](https://github.com/luccas-amorim/dikemetria) <sub>protótipo</sub> | Jurimetria aberta: medir padrões em decisões judiciais públicas e publicar os resultados para pesquisa, com proteção de dados pessoais (LGPD) desde a coleta. |
-| [**Eufrosine**](https://github.com/luccas-amorim/eufrosine) <sub>primeira versão</sub> | Site de aniversário gratuito: contagem regressiva, confirmação de presença e lista de presentes ligada ao Google Sheets, publicado no GitHub Pages. [Demonstração](https://luccas-amorim.github.io/eufrosine/). |
-| [**Akademos**](https://github.com/luccas-amorim/akademos) <sub>rascunho</sub> | Gestão acadêmica aberta: grade curricular, horário, notas, integralização e progresso do curso, adaptáveis à matriz de cada universidade. Com apoio, ganha login e importação do histórico escolar. |
+| [**Akademos**](https://github.com/luccas-amorim/akademos) <sub>protótipo</sub> | Gestão acadêmica aberta: grade curricular, horário, notas, integralização e progresso do curso, adaptáveis à matriz de cada universidade. Com apoio, ganha login e importação do histórico escolar. |
+| [**Eufrosine**](https://github.com/luccas-amorim/eufrosine) <sub>protótipo</sub> | Site de aniversário gratuito: contagem regressiva, confirmação de presença e lista de presentes ligada ao Google Sheets, publicado no GitHub Pages. [Demonstração](https://luccas-amorim.github.io/eufrosine/). |
 
 Para apoiar: [GitHub Sponsors](https://github.com/sponsors/luccas-amorim) ou [PIX](https://luccas-amorim.github.io/apoie/).
 
