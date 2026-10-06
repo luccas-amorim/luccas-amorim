@@ -80,12 +80,13 @@ Para apoiar: [GitHub Sponsors](https://github.com/sponsors/luccas-amorim) ou [PI
 
 ### Publicações
 
-AMORIM, Luccas de. O primado da memória entre as potencialidades da alma, na busca do
-conhecimento de Deus, segundo Santo Agostinho. *Revista Sísifo*, n. 15, 2022.
+AMORIM, Luccas de; COSTA, Marcos Roberto Nunes. O primado da memória entre as potencialidades
+da alma, na busca do conhecimento de Deus, segundo Santo Agostinho. *Revista Sísifo*, v. 1, n. 15,
+p. 35–55, 2022.
 [Link](https://revistasisifo.com.br/2025/07/03/revista-sisifo-no-15-vol-1-2022-volume-unico-publicacao-continua/)
 
-AMORIM, Luccas de. Da origem e natureza da alma na obra de Santo Agostinho. *Revista Sísifo*,
-2019. [Link](https://www.revistasisifo.com/2020/04/da-origem-e-natureza-da-alma-na-obra-de.html)
+AMORIM, Luccas de; COSTA, Marcos Roberto Nunes. Da origem e natureza da alma na obra de Santo
+Agostinho. *Revista Sísifo*, v. 1, n. 10, 2019. [Link](https://www.revistasisifo.com/2020/04/da-origem-e-natureza-da-alma-na-obra-de.html)
 
 ### Compromissos
 
@@ -98,6 +99,7 @@ AMORIM, Luccas de. Da origem e natureza da alma na obra de Santo Agostinho. *Rev
 
 <a href="https://orcid.org/0000-0003-1910-1541"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 <a href="http://lattes.cnpq.br/5257336387155202"><img src="https://img.shields.io/badge/Lattes-211F1B?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Lattes" /></a>
+<a href="https://scholar.google.com/citations?user=wr7wJ7MAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
 <a href="https://www.atlaspen.com.br/"><img src="https://img.shields.io/badge/AtlasPen-8C2F22?style=for-the-badge" alt="AtlasPen" /></a>
 
 <details>
