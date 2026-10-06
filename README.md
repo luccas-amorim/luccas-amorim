@@ -102,7 +102,7 @@ Agostinho. *Revista Sísifo*, v. 1, n. 10, p. 104–116, 2019. [Link](https://ww
 <a href="https://scholar.google.com/citations?user=wr7wJ7MAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
 <a href="https://www.researchgate.net/profile/Luccas-Cavicchioli"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
 <a href="https://fadisp.academia.edu/LuccasAmorim"><img src="https://img.shields.io/badge/Academia.edu-41454A?style=for-the-badge&logo=academia&logoColor=white" alt="Academia.edu" /></a>
-<a href="https://www.atlaspen.com.br/"><img src="https://img.shields.io/badge/AtlasPen-8C2F22?style=for-the-badge" alt="AtlasPen" /></a>
+<!-- <a href="https://www.atlaspen.com.br/"><img src="https://img.shields.io/badge/AtlasPen-8C2F22?style=for-the-badge" alt="AtlasPen" /></a> -->
 
 <details>
 <summary><b>In English</b></summary>
