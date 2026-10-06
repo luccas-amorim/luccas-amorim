@@ -86,7 +86,7 @@ p. 35–55, 2022.
 [Link](https://revistasisifo.com.br/2025/07/03/revista-sisifo-no-15-vol-1-2022-volume-unico-publicacao-continua/)
 
 AMORIM, Luccas de; COSTA, Marcos Roberto Nunes. Da origem e natureza da alma na obra de Santo
-Agostinho. *Revista Sísifo*, v. 1, n. 10, 2019. [Link](https://www.revistasisifo.com/2020/04/da-origem-e-natureza-da-alma-na-obra-de.html)
+Agostinho. *Revista Sísifo*, v. 1, n. 10, p. 104–116, 2019. [Link](https://www.revistasisifo.com/2020/04/da-origem-e-natureza-da-alma-na-obra-de.html)
 
 ### Compromissos
 
