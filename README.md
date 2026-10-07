@@ -22,6 +22,7 @@ Os nomes vêm da mitologia e da língua gregas; cada repositório conta a origem
 |---|---|
 | [**AtlasPen**](https://github.com/luccas-amorim/atlaspen) | Atlas Penal Brasileiro: todos os tipos penais em vigor, os institutos que a lei liga a cada um (ANPP, transação, substituição, progressão, livramento, prescrição) e simulação de alteração legislativa. Dados abertos, conferidos contra o texto compilado do Planalto. |
 | [**Argos**](https://github.com/luccas-amorim/argos) <sub>em construção</sub> | Motor de captura e triagem de fontes públicas para pesquisa jurídica: tribunais, diários oficiais, imprensa, arquivos da web e planilhas publicadas em formatos variados, como listas de precatórios. Lê o texto integral, normaliza, confronta com um léxico declarado em arquivo e entrega cada item com proveniência; o que descarta sai nomeado, com o motivo. |
+| [**Alétheia**](https://github.com/luccas-amorim/aletheia) <sub>em construção</sub> | Observatório do Massacre do Carandiru: catálogo conferido do que a internet guarda sobre o caso, como reportagens, artigos acadêmicos, acervos e documentos judiciais. Um robô derivado do Argos descobre as fontes por canais independentes, lê o texto integral, anota a cópia de referência no Internet Archive e estima, por captura e recaptura, quanto ainda falta achar. |
 | [**Ariadne**](https://github.com/luccas-amorim/ariadne) | A estrutura da Constituição e dos principais códigos em árvore interativa, para ver onde cada título, capítulo ou artigo se encaixa no todo da lei. |
 
 **Utilidades e dados abertos**
