@@ -29,7 +29,7 @@ Os nomes vêm da mitologia e da língua gregas; cada repositório conta a origem
 | Projeto | Definição |
 |---|---|
 | [**Mnemósine**](https://github.com/luccas-amorim/mnemosine) | Backup de mão única para um SSD externo específico, com versões antigas, quarentena e trava contra mudanças em massa. |
-| [**poti-kanon**](https://github.com/luccas-amorim/poti-kanon) <sub>em construção</sub> | Corpus aberto de circuitos OpenQASM com T-count de referência e resultados comparativos de otimizadores. O otimizador do Poti continua fechado; o que se publica é a régua. |
+| [**Teseu**](https://github.com/luccas-amorim/teseu) <sub>protótipo</sub> | Corpus aberto de circuitos OpenQASM com T-count de referência e resultados comparativos de otimizadores. O otimizador do Poti continua fechado; o que se publica é a régua. |
 
 **Com apoio, a seguir**
 
