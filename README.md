@@ -35,7 +35,7 @@ Os nomes vêm da mitologia e da língua gregas; cada repositório conta a origem
 
 | Projeto | Definição |
 |---|---|
-| [**Empóros**](https://github.com/luccas-amorim/emporos) | Calculadora que compara o custo real de importar e de comprar no Brasil: câmbio, IOF, tributação de encomendas e valor presente das parcelas. Pronta para as lojas; cerca de US$ 125 a publicam de graça no Google Play e na App Store. |
+| [**Empóros**](https://github.com/luccas-amorim/emporos) <sub>protótipo</sub> | Calculadora que compara o custo real de importar e de comprar no Brasil: câmbio, IOF, tributação de encomendas e valor presente das parcelas. Pronta para as lojas; cerca de US$ 125 a publicam de graça no Google Play e na App Store. |
 | [**Dikemetria**](https://github.com/luccas-amorim/dikemetria) <sub>protótipo</sub> | Jurimetria aberta: medir padrões em decisões judiciais públicas e publicar os resultados para pesquisa, com proteção de dados pessoais (LGPD) desde a coleta. |
 | [**Akademos**](https://github.com/luccas-amorim/akademos) <sub>protótipo</sub> | Gestão acadêmica aberta: grade curricular, horário, notas, integralização e progresso do curso, adaptáveis à matriz de cada universidade. Com apoio, ganha login e importação do histórico escolar. |
 | [**Eufrosine**](https://github.com/luccas-amorim/eufrosine) <sub>protótipo</sub> | Site de aniversário gratuito: contagem regressiva, confirmação de presença e lista de presentes ligada ao Google Sheets, publicado no GitHub Pages. [Demonstração](https://luccas-amorim.github.io/eufrosine/). |
@@ -97,8 +97,8 @@ Agostinho. *Revista Sísifo*, v. 1, n. 10, p. 104–116, 2019. [Link](https://ww
 
 ### Contato
 
-<a href="https://orcid.org/0000-0003-1910-1541"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 <a href="http://lattes.cnpq.br/5257336387155202"><img src="https://img.shields.io/badge/Lattes-211F1B?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Lattes" /></a>
+<a href="https://orcid.org/0000-0003-1910-1541"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 <a href="https://scholar.google.com/citations?user=wr7wJ7MAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
 <a href="https://www.researchgate.net/profile/Luccas-Cavicchioli"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
 <a href="https://fadisp.academia.edu/LuccasAmorim"><img src="https://img.shields.io/badge/Academia.edu-41454A?style=for-the-badge&logo=academia&logoColor=white" alt="Academia.edu" /></a>
