@@ -30,7 +30,7 @@ Os nomes vêm da mitologia e da língua gregas; cada repositório conta a origem
 | Projeto | Definição |
 |---|---|
 | [**Mnemósine**](https://github.com/luccas-amorim/mnemosine) | Backup de mão única para um SSD externo específico, com versões antigas, quarentena e trava contra mudanças em massa. |
-| [**Teseu**](https://github.com/luccas-amorim/teseu) <sub>protótipo</sub> | Corpus aberto de circuitos OpenQASM com T-count de referência e resultados comparativos de otimizadores. O otimizador do Poti continua fechado; o que se publica é a régua. |
+| [**Teseu**](https://github.com/luccas-amorim/teseu) <sub>protótipo</sub> | Otimizador de circuitos quânticos: reduz o T-count de circuitos OpenQASM com ZX-Calculus e síntese Clifford+T, e entrega cada resultado com a equivalência verificada e o erro (ε) declarado. Código privado por enquanto. |
 
 **Com apoio, a seguir**
 
